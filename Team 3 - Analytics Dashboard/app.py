@@ -1,6 +1,7 @@
 import io
 import numpy as np
 import pandas as pd
+import plotly.express as px
 import streamlit as st
 
 st.set_page_config(page_title="SCE Transmission Findings | Team 3", page_icon="⚡", layout="wide")
